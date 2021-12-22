@@ -1,7 +1,10 @@
-# Animation practise
+# Animation practice
 
+Animation with pure CSS.
 
-### Akn
+## Screen recording:
+
+### Acknowledgment
 
 - Animation turorial The Net Ninja https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5
 - Cloud icon made by <a href="https://www.flaticon.com/authors/iconixar" title="iconixar">iconixar</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
