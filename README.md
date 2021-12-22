@@ -4,6 +4,10 @@ Animation with pure CSS.
 
 ## Screen recording:
 
+
+https://user-images.githubusercontent.com/88823568/147136725-e47fbb0c-bca9-48cf-b4bc-238c3db86a5a.mov
+
+
 ### Acknowledgment
 
 - Animation turorial The Net Ninja https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5
