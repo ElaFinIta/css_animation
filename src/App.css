@@ -63,7 +63,6 @@
   left: 2rem;
   animation-name: drive;
   animation-duration: 6s;
-  animation-fill-mode: forwards;
   animation-fill-mode: both;
   animation-iteration-count: infinite;
   animation-direction: reverse;
