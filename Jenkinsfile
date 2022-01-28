@@ -8,7 +8,7 @@ pipeline {
                 echo 'Echoing fake testing, nothing really happening...'
             }
         }
-        ("Build") {
+        stage ("Build") {
             steps {
                 echo 'Wanna-be building of the app'
             }
